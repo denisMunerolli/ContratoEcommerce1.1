@@ -1,5 +1,7 @@
 package entities;
 
+import java.math.BigDecimal;
+
 public class Produto {
 
 	private int idProduto;
