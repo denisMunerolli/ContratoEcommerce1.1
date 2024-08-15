@@ -19,6 +19,9 @@ public class ItemContrato {
 		this.valorUnitario = valorUnitario;
 		this.valorTotal = valorTotal;
 	}
+	public ItemContrato() {
+		// TODO Auto-generated constructor stub
+	}
 	public int getIdItem() {
 		return idItem;
 	}

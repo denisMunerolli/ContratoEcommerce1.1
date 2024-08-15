@@ -10,6 +10,9 @@ public class Empresa {
 		this.cnpj = cnpj;
 		this.tipoEmpresa = tipoEmpresa;
 	}
+	public Empresa() {
+		// TODO Auto-generated constructor stub
+	}
 	public int getIdEmpresa() {
 		return idEmpresa;
 	}

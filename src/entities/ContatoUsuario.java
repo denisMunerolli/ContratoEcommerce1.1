@@ -10,6 +10,9 @@ public class ContatoUsuario {
 		this.telefone = telefone;
 		this.email = email;
 	}
+	public ContatoUsuario() {
+		// TODO Auto-generated constructor stub
+	}
 	public int getIdUsuario() {
 		return idUsuario;
 	}

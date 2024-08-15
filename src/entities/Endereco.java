@@ -29,6 +29,9 @@ public class Endereco {
 		this.tipoEndereco = tipoEndereco;
 		this.padrao = padrao;
 	}
+	public Endereco() {
+		// TODO Auto-generated constructor stub
+	}
 	public int getIdEndereco() {
 		return idEndereco;
 	}

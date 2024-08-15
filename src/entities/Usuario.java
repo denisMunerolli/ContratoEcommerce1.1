@@ -36,6 +36,9 @@ public class Usuario {
 		this.justificativaBloqueio = justificativaBloqueio;
 		this.docEmDia = docEmDia;
 	}
+	public Usuario() {
+		// TODO Auto-generated constructor stub
+	}
 	public int getIdUsuario() {
 		return idUsuario;
 	}

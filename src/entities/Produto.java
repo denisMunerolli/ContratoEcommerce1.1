@@ -3,8 +3,7 @@ package entities;
 import java.math.BigDecimal;
 
 public class Produto {
-
-	private int idProduto;
+    private int idProduto;
     private String nomeProduto;
     private String descricao;
     private String categoria;
@@ -77,5 +76,4 @@ public class Produto {
     public void setValorUnitario(BigDecimal valorUnitario) {
         this.valorUnitario = valorUnitario;
     }
-	
 }

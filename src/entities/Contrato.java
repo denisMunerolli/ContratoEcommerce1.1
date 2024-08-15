@@ -34,6 +34,9 @@ public class Contrato {
 		this.observacoes = observacoes;
 		this.status = status;
 	}
+	public Contrato() {
+		// TODO Auto-generated constructor stub
+	}
 	public int getIdContrato() {
 		return idContrato;
 	}

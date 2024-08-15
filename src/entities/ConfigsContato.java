@@ -27,6 +27,9 @@ public class ConfigsContato {
 		this.dataUltimaAtualizacaoSenha = dataUltimaAtualizacaoSenha;
 		this.aceitaReceberNotificacao = aceitaReceberNotificacao;
 	}
+	public ConfigsContato() {
+		// TODO Auto-generated constructor stub
+	}
 	public int getIdUsuario() {
 		return idUsuario;
 	}

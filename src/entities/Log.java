@@ -18,6 +18,9 @@ public class Log {
 		this.dataHora = dataHora;
 		this.descricao = descricao;
 	}
+	public Log() {
+		// TODO Auto-generated constructor stub
+	}
 	public int getIdLog() {
 		return idLog;
 	}
